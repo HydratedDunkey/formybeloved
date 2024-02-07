@@ -1,0 +1,74 @@
+*{
+    /* border: 3px solid purple; */
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 3vw;
+}
+
+h3 {
+    text-align: center;
+    color:rgb(201, 94, 223)
+}
+
+body {
+    background-color: pink;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: palevioletred;
+}
+
+#middle-text-column{
+    /* margin-left: 20%;
+    margin-right: 20%; */
+    /* height: 100%; */
+    width: 30%;
+    font-size: 1vw;
+    flex: 1;
+    background-color: rgb(37, 36, 34);
+    border-radius: 20px;
+    padding: 1%;
+    /* display: inline; */
+}
+
+.img-column{
+    width: 20%;
+    height: auto;
+    text-align: center;
+    background-color: lightpink;
+    border-radius: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding-top: 3%;
+    flex: 1;
+}
+
+img {
+    width: 75%;
+    border-radius: 10%;
+    border: 6px solid lightcoral;
+    margin-bottom: 30%;
+}
+
+#whole {
+    width: 100%;
+    height: auto;
+    border: 2px solid pink;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: stretch;
+    gap: 10%;
+}
+
+#love {
+    color: red;
+    font-style: italic; 
+}
+
+#chris {
+    float: right;
+}
