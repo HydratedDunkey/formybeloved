@@ -7,7 +7,7 @@ h1, h2 {
 }
 
 h1 {
-    font-size: 3vw;
+    font-size: 5vmin;
 }
 
 h3 {
@@ -26,7 +26,7 @@ body {
     margin-right: 20%; */
     /* height: 100%; */
     width: 30%;
-    font-size: 1vw;
+    font-size: 2vmin;
     flex: 1;
     background-color: rgb(37, 36, 34);
     border-radius: 20px;
