@@ -36,6 +36,10 @@ body {
 .img-column{
     width: 20%;
     height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
     text-align: center;
     background-color: lightpink;
     border-radius: 10%;
