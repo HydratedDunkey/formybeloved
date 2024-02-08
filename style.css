@@ -10,9 +10,15 @@ h1 {
     font-size: 5vmin;
 }
 
+#version{
+    font-size: 2vmin;
+    position: absolute;
+    color:rgb(201, 94, 223);
+}
+
 h3 {
     text-align: center;
-    color:rgb(201, 94, 223)
+    color:rgb(201, 94, 223);
 }
 
 body {
@@ -39,10 +45,7 @@ body {
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
-    /* background-color: lightpink; */
-    /* border-radius: 10%; */
     padding: 3%;
-    /* padding-top: 3%; */
     flex: 2;
 }
 
@@ -61,7 +64,6 @@ img {
     flex-wrap: nowrap;
     justify-content: center;
     align-items: stretch;
-    /* gap: 10%; */
 }
 
 #love {
