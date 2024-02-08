@@ -10,6 +10,12 @@ h1 {
     font-size: 5vmin;
 }
 
+#version{
+    font-size: 2vmin;
+    position: absolute;
+    color:rgb(201, 94, 223);
+}
+
 h3 {
     text-align: center;
     color:rgb(201, 94, 223)
