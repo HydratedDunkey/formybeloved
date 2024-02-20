@@ -28,9 +28,6 @@ body {
 }
 
 #middle-text-column{
-    /* margin-left: 20%;
-    margin-right: 20%; */
-    /* height: 100%; */
     font-size: 2vmin;
     flex: 4;
     background-color: rgb(37, 36, 34);
